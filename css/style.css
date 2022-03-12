@@ -16,6 +16,7 @@ body {
     max-height: 500px;
     padding: 5px;
     border: 4px solid rgb(96, 196, 163);
+    overflow: hidden;
 }
 
 h1 {
