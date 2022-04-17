@@ -1,5 +1,5 @@
 const generatImageOnHTML = (e) => {
-    document.querySelector('#img-fetch').innerHTML = `
+    document.querySelector('.container-item').innerHTML = `
         <img src="${e.message}" id="image-dog">
     `
 }
